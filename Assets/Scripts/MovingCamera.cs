@@ -5,7 +5,7 @@ using UnityEngine;
 public class MovingCamera : MonoBehaviour
 {
 
-    private Vector3 moveBy = new Vector3(50,0,0);
+    private Vector3 moveBy = new Vector3(500,0,0);
     public float period = 0.0f;
     // Start is called before the first frame update
     void Start()
